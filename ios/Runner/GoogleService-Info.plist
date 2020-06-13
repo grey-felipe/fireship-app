@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>575589237618-evoac2cthp3c327n11g2ltnek2uq5rf6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.575589237618-evoac2cthp3c327n11g2ltnek2uq5rf6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCgQlRtjRc7SAMyMkXWkTbYwsna1xEfv2o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>575589237618</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.prmry.objctv.aeusfireship</string>
+	<key>PROJECT_ID</key>
+	<string>fireshipapp-a62e5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fireshipapp-a62e5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:575589237618:ios:6255b7b67791d2bcfd53eb</string>
+	<key>DATABASE_URL</key>
+	<string>https://fireshipapp-a62e5.firebaseio.com</string>
+</dict>
+</plist>

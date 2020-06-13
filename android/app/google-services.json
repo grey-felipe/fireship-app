@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "575589237618",
+    "firebase_url": "https://fireshipapp-a62e5.firebaseio.com",
+    "project_id": "fireshipapp-a62e5",
+    "storage_bucket": "fireshipapp-a62e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575589237618:android:2360eacbcc1c0a2dfd53eb",
+        "android_client_info": {
+          "package_name": "com.prmry.objctv.fireshipapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575589237618-3algj5kpnnv7si0d300h0mbfpaslrj7d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prmry.objctv.fireshipapp",
+            "certificate_hash": "28ac51baf5157db3d46559aee431e598847cfed6"
+          }
+        },
+        {
+          "client_id": "575589237618-82fjajps62fm95g21oof3n7lf4ckcmqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoP38NLOONsuiYV4oJhmgnnLi26K1uxAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575589237618-82fjajps62fm95g21oof3n7lf4ckcmqk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "575589237618-evoac2cthp3c327n11g2ltnek2uq5rf6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.prmry.objctv.aeusfireship"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
